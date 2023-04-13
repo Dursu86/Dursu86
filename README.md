@@ -2,7 +2,7 @@ Hola, soy Daniel Ursúa. Soy dietista-nutricionista y también programador. Me e
 
 Gracias al bootcamp de desarrollo web full stack de ISDI CODERS, he descubierto en la programación un ámbito que me gusta mucho y en el que me gustaría seguir desarrollándome profesionalmente. Hasta el momento he tenido la oportunidad de trabajar con las siguientes tecnologías y herramientas.
 
-*Tecnologías*
+_Tecnologías_
 
 Javascript
 TypeScript
@@ -14,7 +14,7 @@ Mongoose
 MongoDB
 Wordpress
 
-*Herramientas*
+_Herramientas_
 
 VSCode
 Trello
@@ -28,7 +28,7 @@ Hi, I'm Daniel Ursúa. I'm a dietitian-nutritionist and also a programmer. I lov
 
 Thanks to ISDI CODERS' full-stack web development bootcamp, I have discovered programming as an area that I enjoy a lot and where I would like to continue developing professionally. So far, I've had the opportunity to work with the following technologies and tools.
 
-*Tecnologías*
+_Languages_
 
 Javascript
 TypeScript
@@ -40,7 +40,7 @@ Mongoose
 MongoDB
 Wordpress
 
-*Herramientas*
+_Tools_
 
 VSCode
 Trello
